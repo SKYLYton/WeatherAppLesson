@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //menu
+    <string name="home">Погода</string>
+    <string name="about">О приложении</string>
+    <string name="settings">Настройки</string>
+
+    //text
+    <string name="loading">Загрузка</string>
+
+    //buttons
+    <string name="button_update_name">Обновить</string>
+    <string name="button_change_city">Выбрать</string>
+
+    //checkBoxes
+    <string name="check_box_add_inf">Дополнительная информация (скорость ветра и давление)</string>
+
+    //radioButtons
+    <string name="radio_button_dark_theme">Темная</string>
+    <string name="radio_button_light_theme">Светлая</string>
+    <string name="radio_button_side_type">Боковое меню</string>
+    <string name="radio_button_bottom_type">Нижнее меню</string>
+
+    //textView
+    <string name="text_view_city">Город</string>
+    <string name="text_view_all_inf">Вся информация</string>
+    <string name="text_view_developer">Разработчик:</string>
+    <string name="text_view_developer_name">Федотов Яков Олегович</string>
+    <string name="text_view_developer_contacts">Контакты:</string>
+    <string name="text_view_developer_number">Телефон: 8 (910) 555 55-55</string>
+    <string name="text_view_developer_email">Эл. адрес: fedotovyasha@mail.ru</string>
+    <string name="text_view_theme">Тема</string>
+    <string name="text_view_menu_type">Тип меню</string>
+    <string name="text_view_temp">Температура:</string>
+    <string name="text_view_pressure">Давление:</string>
+    <string name="text_view_wind">Скорость ветра:</string>
+
+    //toasts
+    <string name="toast_inf_empty_field">Заполните пустые поля</string>
+    <string name="toast_request_no_data">Проверьте подключение к интернету</string>
+    <string name="toast_request_error">Не удалось получить данные с сервера</string>
+    <string name="toast_inf_offline">Потеряно подключение к интернету</string>
+    <string name="toast_inf_online">Появилось подключение к интернету</string>
+
+    //days
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="day_after">Послезавтра</string>
+
+    //cities
+    <string name="moscow">Москва</string>
+    <string name="saint_petersburg">Санкт-Петербург</string>
+    <string name="novosibirsk">Новосибирск</string>
+    <string name="kazan">Казань</string>
+    <string name="sochi">Сочи</string>
+</resources>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    //menu
+    <string name="home">Weather</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+
+    //text
+    <string name="loading">Loading</string>
+
+    //buttons
+    <string name="button_update_name">Update</string>
+    <string name="button_change_city">Choose</string>
+
+    //checkBoxes
+    <string name="check_box_add_inf">Additional information (wind speed and pressure)</string>
+
+    //radioButtons
+    <string name="radio_button_dark_theme">Dark</string>
+    <string name="radio_button_light_theme">Light</string>
+    <string name="radio_button_side_type">Side menu</string>
+    <string name="radio_button_bottom_type">Bottom menu</string>
+
+    //textView
+    <string name="text_view_city">Country</string>
+    <string name="text_view_all_inf">All information</string>
+    <string name="text_view_developer">developer:</string>
+    <string name="text_view_developer_name">Yakov Fedotov</string>
+    <string name="text_view_developer_contacts">Contacts:</string>
+    <string name="text_view_developer_number">Number: 8 (910) 555 55-55</string>
+    <string name="text_view_developer_email">Email: fedotovyasha@mail.ru</string>
+    <string name="text_view_theme">Theme</string>
+    <string name="text_view_menu_type">Menu type</string>
+    <string name="text_view_temp">Temperature:</string>
+    <string name="text_view_pressure">Pressure:</string>
+    <string name="text_view_wind">Wind speed:</string>
+
+    //toasts
+    <string name="toast_inf_empty_field">Fill in the empty fields</string>
+    <string name="toast_request_no_data">Check your Internet connection</string>
+    <string name="toast_request_error">Couldn\'t get data from the server</string>
+    <string name="toast_inf_offline">Lost Internet connection</string>
+    <string name="toast_inf_online">An Internet connection has appeared</string>
+
+    //days
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="day_after">The day after</string>
+
+    //cities
+    <string name="moscow">Moscow</string>
+    <string name="saint_petersburg">Saint Petersburg</string>
+    <string name="novosibirsk">Novosibirsk</string>
+    <string name="kazan">Kazan</string>
+    <string name="sochi">Sochi</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

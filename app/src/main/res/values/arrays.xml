@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cities">
+        <item>@string/moscow</item>
+        <item>@string/saint_petersburg</item>
+        <item>@string/novosibirsk</item>
+        <item>@string/kazan</item>
+        <item>@string/sochi</item>
+    </array>
+
+    <array name="days">
+        <item>@string/today</item>
+        <item>@string/tomorrow</item>
+        <item>@string/day_after</item>
+    </array>
+</resources>
